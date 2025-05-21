@@ -21,7 +21,7 @@ The dataset contains grayscale images of 10 clothing categories like **Shirts, S
 
 ## 🏃‍♂️ Run it on Colab
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://github.com/Gorachand2501/mnist-digit-classifier/blob/main/MNIST_Digit_Calssification%20(CNN).ipynb)
+(https://github.com/Gorachand2501/fashion-mnist-classifier/blob/main/Fashion_MNIST_Image_Classification.ipynb)
 
 ## 📦 Requirements
 - tensorflow
